@@ -13,11 +13,11 @@
 Выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
 ### Библиотеки:
-pandas,
-pandas_profiling,
-warnings,
-seaborn,
-matplotlib,
-numpy,
-statsmodels,
-scipy (scipy.stats).
+- pandas,
+- pandas_profiling,
+- warnings,
+- seaborn,
+- matplotlib,
+- numpy,
+- statsmodels,
+- scipy (scipy.stats).
